@@ -1,0 +1,23 @@
+{
+  "name": "xiwen-utils",
+  "version": "1.0.2",
+  "description": "用来平常自己添加js公共块的npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li1164267803/xiwen-utils.git"
+  },
+  "keywords": [
+    "utils",
+    "js"
+  ],
+  "author": "li1164267803",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li1164267803/xiwen-utils/issues"
+  },
+  "homepage": "https://github.com/li1164267803/xiwen-utils#readme"
+}
